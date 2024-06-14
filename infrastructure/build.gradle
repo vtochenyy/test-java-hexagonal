@@ -1,0 +1,5 @@
+dependencies {
+    implementation project(':adapters:web')
+    implementation project(':adapters:persistence')
+    implementation project(':core')
+}
